@@ -1,2 +1,1 @@
-# AidBot
-A AI powered healthcare assistant.
+# AidBot_project
